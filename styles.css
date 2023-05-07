@@ -35,7 +35,7 @@
 	width:100px; 
 	height:100px;   
 } 
-.container{    
+.holder{    
 	padding:2px;  
 	display:flex; 
 	flex-wrap:wrap;
